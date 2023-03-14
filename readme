@@ -1,0 +1,34 @@
+Respostas:
+
+1) Resposta se encontra no arquivo ex01.js
+
+
+2) Resposta se encontra no arquivo ex02.js
+
+
+3) a) A lógica é adicionar 2 em cada número. Portanto, o próximo número seria 9.
+b) A lógica é multiplicar cada número por 2. Portanto, o próximo número seria 128.
+c) A lógica é adicionar números ímpares consecutivos a partir de 1. Então, o próximo número seria 49 (0+1=1, 1+3=4, 4+5=9, 9+7=16, 16+9=25, 25+11=36, 36+13=49).
+d) A lógica é adicionar 12 ao primeiro número, 20 ao segundo, 28 ao terceiro, etc. Portanto, o próximo número seria 100.
+e) A lógica é somar os dois números anteriores para obter o próximo número. Portanto, o próximo número seria 13 (8+5=13).
+f) ??
+
+
+4) Para responder essa pergunta, precisamos encontrar o ponto exato em que o carro e o caminhão se cruzam na rodovia.
+
+Sabemos que a distância entre Ribeirão Preto e Franca é de 100 km. Como os veículos estão indo em direções opostas, a distância entre eles diminui a uma taxa de (110 + 80) = 190 km/h. Portanto, podemos determinar o tempo que levará para eles se encontrarem na seguinte equação:
+
+100 km = 190 km/h x tempo
+tempo = 100 km / 190 km/h
+tempo = 0,5263 horas
+
+Ou seja, levará 0,5263 horas (ou 31,58 minutos) para o carro e o caminhão se cruzarem na rodovia.
+
+Agora, precisamos determinar qual dos veículos está mais próximo de Ribeirão Preto nesse ponto de cruzamento.
+
+Durante esse tempo, o carro percorrerá uma distância de 110 km/h x 0,5263 horas = 57,89 km. Já o caminhão percorrerá uma distância de 80 km/h x 0,5263 horas = 42,11 km.
+
+Como o ponto de cruzamento está a 57,89 km de Ribeirão Preto, podemos concluir que o carro estará mais próximo da cidade quando os dois veículos se cruzarem na rodovia.
+
+
+5) Resposta se encontra no arquivo ex05.js
